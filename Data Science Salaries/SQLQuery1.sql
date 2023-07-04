@@ -3,9 +3,6 @@
 -- 3. What is the average salary for data scientists, data engineers, and data analysts in the US?
 -- 4. What percentage of roles in the US are remote?
 
-select * from [Data Science Salaries].dbo.ds_salaries
-where job_title in ('Machine Learning Engineer', 'ML Engineer')
-
 
 -- 1. What are the top 5 most popular job titles?
 
